@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-starter-help-center",
+  "name": "nyxo-help",
   "private": true,
   "version": "1.0.0",
-  "description": "A starter for using the @mlent/gatsby-theme-help-center theme.",
-  "repository": "git@github.com:mlent/gatsby-starter-help-center.git",
-  "author": "Monica Lent <lent.monica@gmail.com>",
+  "description": "Nyxo Help Center",
+  "repository": "git@github.com:hello-nyxo/nyxo-hepl.git",
+  "author": "Perttu Lähteenlahti <perttu@nyxo.fi>",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",

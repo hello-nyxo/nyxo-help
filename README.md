@@ -1,13 +1,10 @@
-# gatsby-starter-help-center
+# Nyxo Help Center
 
-- Theme source: https://github.com/mlent/gatsby-theme-help-center
-- Demo site: https://gatbsy-theme-help-center.netlify.app
+- Original Theme source: https://github.com/mlent/gatsby-theme-help-center
+- Demo site: https://help.nyxo.app
 
-How to use this starter:
-
-```
-gatsby new https://github.com/mlent/gatsby-starter-help-center
 ```
 
 If you have an issue with the original theme, please file it in the theme repo instead of here:
 https://github.com/mlent/gatsby-theme-help-center
+```
