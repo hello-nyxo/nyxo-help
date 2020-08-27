@@ -6,12 +6,8 @@
   slug: faqs
   description: Frequently asked questions about Nyxo App
   image: /images/faqs.svg
-- name: Professionals
-  slug: tutorials
-  description: Guides and instructions for professionals
-  image: /images/tutorials.svg
 - name: Sleep Coaching
   slug: coaching
   description: Information on Nyxo Coaching
-  image: /images/getting-started.svg
+  image: /images/tutorials.svg
   

@@ -6,7 +6,7 @@ module.exports = {
     titleTemplate: "%s · Nyxo Help Center",
     description: "",
     siteUrl: "https://help.nyxo.app",
-    siteName: "A Help Center Theme for Gatsby",
+    siteName: "A Help Center Theme for Nyxo",
     logoUrl: "/images/logo.png",
     logoLabel: "Help Center",
     searchText: "Search",
@@ -23,6 +23,7 @@ module.exports = {
     footerUrl: "https://nyxo.app",
     googleTagManagerId: "",
     googleAnalyticsMeasurementId: "",
+    contentLang: "en"
   },
   plugins: ["gatsby-plugin-typescript", "@mlent/gatsby-theme-help-center"],
 };
